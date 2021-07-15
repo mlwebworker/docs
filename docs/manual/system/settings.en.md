@@ -202,7 +202,9 @@ parameters:
     database_name: …
     secret: …
 ```
-
+{{% notice note %}}
+Passwords consisting of digits only must be quoted.
+{{% /notice %}}
 
 ## config.yml
 
